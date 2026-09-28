@@ -23,7 +23,7 @@ int main()
             cout <<"deficient";
         }
     }
-      cout <<"total"<< count << endl;
+      cout <<"total2"<< count << endl;
        
     return 0;
 }
