@@ -25,7 +25,11 @@ int main()
         fact = 1;
     }
 
-    cout<< sum;
+    if( sum == n ){
+        cout << "Strong Number" << endl;
+    }else{
+        cout << "Normal" <<endl;
+    }
        
     return 0;
 }
